@@ -1,0 +1,82 @@
+================================================================================
+                    🌸 RWIZY WHATSAPP SPAMMER v2.0 🌸
+                         (Senpai Edition - EXE)
+                    Hızlı Başlangıç & Kurulum Kılavuzu
+================================================================================
+
+Bu sürüm bağımsız (standalone) .exe olarak paketlenmiştir.
+Bilgisayarınızda Python, pip veya herhangi bir ek kütüphane kurmanıza GEREK YOKTUR!
+
+--------------------------------------------------------------------------------
+1. GEREKSİNİMLER
+--------------------------------------------------------------------------------
+- İşletim Sistemi : Windows 10 / 11 (64-bit)
+- Tarayıcı        : Mozilla Firefox (WhatsApp Web'i açmak için gereklidir)
+  (Firefox kurulu değilse resmi adresinden ücretsiz indirebilirsiniz:
+   https://www.mozilla.org/firefox/)
+- Diğer Dosyalar  : `geckodriver.exe` ve `sounds/` klasörü bu arşivde hazır gelir.
+
+--------------------------------------------------------------------------------
+2. NASIL KULLANILIR? (TEK TIKLA ÇALIŞTIRMA)
+--------------------------------------------------------------------------------
+1) İndirdiğiniz RAR arşivinin içeriğini Masaüstünde veya istediğiniz bir klasöre 
+   çıkartın (WinRAR / 7-Zip ile "Buraya Çıkart").
+2) Klasörün içindeki "TEK_TIKLA_BASLAT.bat" veya doğrudan "RWIZY_WhatsApp_Spammer.exe" 
+   dosyasına çift tıklayın.
+3) Açılan programda ilk çalıştırmada telefonunuzdan WhatsApp Web QR kodunu taratın.
+   (Oturum bu klasörde kaydedilir. Bir sonraki açılışlarda QR kod sormadan 
+   doğrudan açılır!)
+4) Menüden hedefinizi belirleyin ve arkanıza yaslanın!
+
+--------------------------------------------------------------------------------
+3. ÖNE ÇIKAN ÖZELLİKLER & KULLANIM İPUÇLARI
+--------------------------------------------------------------------------------
+• [1] HEDEF ARA & SPAMMER'I BAŞLAT:
+  Kişi veya grup adını tam olarak yazın, sistem otomatik bulup sohbete girer.
+
+• [2] MEVCUT AÇIK SOHBETİ KULLAN:
+  WhatsApp Web penceresinde farenizle hedefinizin sohbetine tıklayın, menüden [2]'yi
+  seçin. Kişi adı yazma zahmetine girmeden o an açık olan kişiye doğrudan başlar!
+
+• [3] ÇOKLU MESAJ LİSTESİ (messages.txt):
+  Klasördeki `messages.txt` dosyasına alt alta istediğiniz mesajları yazabilirsiniz.
+  Programdan "Liste oku" seçeneğini seçtiğinizde mesajlar sırayla veya rastgele
+  gönderilir.
+
+• [4] ANTİ-BAN SAYAÇ SİSTEMİ ([1/50]):
+  Mesaj sonuna sayaç ekleme seçeneği ile her mesajın sonuna numara eklenir.
+  Bu sayede WhatsApp'ın "aynı mesajı arka arkaya gönderme" engeli aşılır.
+
+• [5] GERİ SAYIM & CANLI İLERLEME ÇUBUĞU:
+  Saldırı öncesi geri sayım süresi belirleyebilir, gönderim anında tek satırlık
+  canlı anime ilerleme çubuğuyla takip edebilirsiniz.
+
+• [6] ANİME SES EFEKTLERİ:
+  Açılışta, QR girişinde, saldırıda ve görev bittiğinde anime ses efektleri çalar.
+  Kendi özel seslerinizi eklemek isterseniz `sounds/` klasörüne aynı isimde 
+  `.wav` dosyalarınızı atabilirsiniz.
+
+--------------------------------------------------------------------------------
+4. SIK KARŞILAŞILAN SORUNLAR
+--------------------------------------------------------------------------------
+S: "Driver başlatılamadı" hatası veriyor?
+C: Bilgisayarınızda Mozilla Firefox'un kurulu olduğundan ve klasördeki 
+   `geckodriver.exe` dosyasını silmediğinizden emin olun.
+
+S: Dosyaları klasöre çıkarmadan RAR içinden doğrudan açabilir miyim?
+C: Hayır! RAR arşivini mutlaka bir klasöre çıkartıp öyle çalıştırın. Çünkü programın 
+   yanındaki `geckodriver.exe` ve `sounds` dosyalarına erişmesi gerekir.
+
+S: Oturumumu nasıl sıfırlarım?
+C: Klasörde oluşan `.firefox-profile` klasörünü silerseniz yeni bir oturum açılır.
+
+--------------------------------------------------------------------------------
+5. YASAL UYARI
+--------------------------------------------------------------------------------
+Bu yazılım yalnızca eğitim, otomasyon testleri ve eğlence amaçlı hazırlanmıştır.
+Kötü niyetli spam ve rahatsızlık verme amacıyla kullanılmamalıdır.
+Tüm yasal sorumluluk kullanıcıya aittir.
+
+Yapımcı / Geliştirici : Made with 💖 by rwizy
+Sürüm                 : v2.0 (Senpai Edition - Standalone EXE)
+================================================================================
